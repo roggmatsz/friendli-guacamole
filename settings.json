@@ -1,0 +1,8 @@
+{
+    "client_id": "goes here",
+    "secret": "also goes here",
+    "baseurl": "https://www.linkedin.com/oauth/v2",
+    "auth_endpoint": "/authorization",
+    "token_endpoint": "/accessToken",
+    "redirect_uri": "API endpoint goes here"
+}
